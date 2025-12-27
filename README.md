@@ -118,7 +118,7 @@ A **Graphical User Interface (GUI)** was developed using **Streamlit** to enable
 The GUI allows the system to be used without direct interaction with the source code.
 
 ---
-
+```
 ## 9. Project Structure
 Brain-Tumor-MRI-Classification/
 │
@@ -157,7 +157,7 @@ Brain-Tumor-MRI-Classification/
 | Member 5 | **GUI Developer** | Streamlit GUI development and deployment |
 
 The project workload was distributed evenly to ensure fair contribution among all team members.
-
+```
 ---
 
 
@@ -178,5 +178,3 @@ Seaborn
 13. License
 
 This project is developed for educational and academic purposes and demonstrates the practical application of deep learning techniques in medical imaging.
-
-ثثثثب
