@@ -150,11 +150,11 @@ Brain-Tumor-MRI-Classification/
 
 | Member | Role | Responsibilities |
 |------|------|----------------|
-| Member 1 | **Team Leader & System Architect** | Project planning, system integration, model testing, evaluation, results analysis |
-| Member 2 | **Data Engineer** | Dataset analysis, preprocessing, data augmentation |
-| Member 3 | **CNN Model Developer** | Custom CNN design and training |
-| Member 4 | **Transfer Learning Engineer** | VGG16 & ResNet50 fine-tuning and optimization |
-| Member 5 | **GUI Developer** | Streamlit GUI development and deployment |
+| Member 1: Habib Wael Suleiman     | **Team Leader & System Architect** | Project planning, system integration, model testing, evaluation, results analysis |
+| Member 2: Ziad Waleed Rafaat      | **Data Engineer** | Dataset analysis, preprocessing, data augmentation |
+| Member 3: Malak Muhammad Mahmoud  | **CNN Model Developer** | CNN architecture design, implementation, and multi-model experimentation |
+| Member 4: Lamia Khaled Mohamed    | **Transfer Learning Engineer** | VGG16 & ResNet50 fine-tuning and optimization |
+| Member 5: Ammar Amjad Kamel       | **GUI Developer** | Streamlit GUI development and deployment |
 
 The project workload was distributed evenly to ensure fair contribution among all team members.
 ```
